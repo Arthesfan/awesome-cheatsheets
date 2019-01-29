@@ -28,6 +28,7 @@
 ### :pencil:文本编辑
 
 - [VIM](editors/vim.txt)
+- [NERDTREE](editors/nerdtree.txt)
 - [Nano](editors/nano.txt)
 
 ## :pray:欢迎贡献
